@@ -1,0 +1,9 @@
+body {
+    padding: 0 auto;
+    margin: 0 auto;
+}
+
+#aprshefi_map {
+    width: 100%;
+    border: 0;
+}
